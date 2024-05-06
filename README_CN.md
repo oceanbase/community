@@ -1,5 +1,7 @@
 # OceanBase 开发者社区
 
+[English](README.md)
+
 欢迎来到 OceanBase 开发者社区！
 
 欢迎加入 OceanBase 开发者社区并参与贡献，文档改进、贡献代码或者参与讨论都非常欢迎。

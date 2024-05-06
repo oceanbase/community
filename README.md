@@ -1,5 +1,7 @@
 # OceanBase Developer Community
 
+[中文版](README_CN.md)
+
 Welcome to the OceanBase developer community!
 
 Welcome to join the OceanBase developer community and contribute. Document improvements, code contributions, or participation in discussions are all welcome.
