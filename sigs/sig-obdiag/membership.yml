@@ -1,0 +1,20 @@
+maintainers:
+- github_id: xuji755
+  name: 白鳝
+  organization: 南京基石数据
+- github_id: Teingi
+  name: 汤庆
+  organization: OceanBase
+- github_id: frf12
+  name: 傅榕锋
+  organization: OceanBase
+repositories:
+- repo:
+  - oceanbase/obdiag
+  committers:
+  - github_id: wayyoungboy
+    name: 王煦焱
+    organization: OceanBase
+  - github_id: Teingi
+    name: 汤庆
+    organization: OceanBase

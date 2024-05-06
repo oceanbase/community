@@ -1,0 +1,20 @@
+maintainers:
+- github_id: abcd1
+  name: Abcd
+  organization: OceanBase
+  - github_id: abcd2
+  name: DEFG
+  organization: OceanBase
+repositories:
+- repo:
+  - oceanbase/oceanbase
+  - oceanbase/obdiag
+  committers:
+  - github_id: Tangqing
+    name: 汤庆
+    organization: OceanBase
+  - github_id: yulou
+    name: 玉楼
+- repo:
+  - oceanbase/oceanbase-doc
+  - oceanbase/obdiag-doc
