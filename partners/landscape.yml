@@ -1,0 +1,62 @@
+landscape:
+  应用集成:
+    驱动与连接池:
+      - mysql-connector-j
+      - go-mysql-driver
+      - pymysql
+      - python-mysqlclient
+      - hikaricp
+      - alibaba-druid
+    ORM框架:
+      - mybatis
+      - mybatis-plus
+      - hibernate
+      - spring-data-jpa
+      - gorm
+      - sqlalchemy
+    数据库中间件:
+      - sofa-stack
+      - mycat
+      - mysql-router
+      - seata
+      - apache-shardingsphere
+      - vitess
+      - atlas
+      - cobar
+      - xxl-job
+  数据治理:
+    数据开发:
+      - mysql-workbench
+      - dbeaver
+      - bytebase
+      - sqlyog
+      - heidisql
+      - flyway
+      - goinception
+      - sqladvisor
+    BI及报表:
+      - tableau
+      - quickbi
+      - datav
+  数据集成与备份:
+    数据迁移及备份:
+      - datax
+      - canal
+      - chunjun
+      - flink-cdc
+      - apache-seatunnel
+      - cloudcanal
+    大数据处理:
+      - apache-flink
+      - apache-spark
+      - apache-dolphinscheduler
+      - apache-linkis
+      - piflow
+  管控平台:
+    云原生:
+      - kubernetes
+      - grafana
+      - prometheus
+      - kubeblocks
+      - sealer
+      - terraform

@@ -1,0 +1,650 @@
+partners:
+  - id: mysql-connector-j
+    name: MySQL Connector/J
+    logo: logo/mysql-connector-j.jpg
+    website: 'https://github.com/mysql/mysql-connector-j'
+    description: MySQL Connector/J是一个实现了Java Database Connectivity (JDBC) API和MySQL X DevAPI的Java驱动程序。
+    compatibility:
+      - partner: MySQL Connector/J任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 驱动与连接池
+    references:
+      - title: 'MySQL Connector/J 连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000689397'
+      - title: 'MySQL Connector/J Developer Guide'
+        url: 'https://dev.mysql.com/doc/connector-j/en/'
+  - id: go-mysql-driver
+    name: Go MySQL Driver
+    logo: logo/go-mysql-driver.jpg
+    website: 'https://github.com/go-sql-driver/mysql'
+    description: Go-MySQL-Driver是一个实现了Go语言database/sql接口的MySQL驱动程序。
+    compatibility:
+      - partner: Go MySQL Driver任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 驱动与连接池
+    references:
+      - title: 'Go-SQL-Driver/MySQL 连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640462'
+  - id: pymysql
+    name: PyMySQL
+    logo: logo/pymysql.jpg
+    website: 'https://github.com/PyMySQL/PyMySQL'
+    description: PyMySQL是一个Python语言的MySQL驱动程序。
+    compatibility:
+      - partner: PyMySQL任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 驱动与连接池
+    references:
+      - title: 'PyMySQL 连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640471'
+  - id: python-mysqlclient
+    name: mysqlclient
+    logo: logo/python-mysqlclient.jpg
+    website: 'https://github.com/PyMySQL/mysqlclient'
+    description: mysqlclient 是一个Python的MySQL驱动，基于MySQLdb1，并在其基础上增加了对Python 3的支持以及许多缺陷修复。
+    compatibility:
+      - partner: mysqlclient任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 驱动与连接池
+    references:
+      - title: 'mysqlclient 连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640470'
+  - id: hikaricp
+    name: HikariCP
+    logo: logo/hikaricp.jpg
+    website: 'https://github.com/brettwooldridge/HikariCP'
+    description: HikariCP 是一个可靠且高性能的JDBC连接池。
+    compatibility:
+      - partner: HikariCP任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 驱动与连接池
+    references:
+      - title: 'HikariCP 连接池连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640477'
+  - id: alibaba-druid
+    name: Druid
+    logo: logo/alibaba-druid.jpg
+    website: 'https://github.com/brettwooldridge/HikariCP'
+    description: Druid是一个具备强大的监控和扩展功能的JDBC连接池。
+    compatibility:
+      - partner: Druid任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 驱动与连接池
+    references:
+      - title: 'Druid 连接池连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640482'
+  - id: mybatis
+    name: MyBatis
+    logo: logo/mybatis.jpg
+    website: 'https://github.com/mybatis/mybatis-3'
+    description: MyBatis是一款支持自定义SQL、存储过程以及高级映射的Java持久层框架。
+    compatibility:
+      - partner: MyBatis任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: ORM框架
+    references:
+      - title: 'MyBatis 连接 OceanBase 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640467'
+  - id: mybatis-plus
+    name: MyBatis Plus
+    logo: logo/mybatis-plus.jpg
+    website: 'https://github.com/baomidou/mybatis-plus'
+    description: MyBatis-Plus是一个MyBatis的增强工具，在MyBatis的基础上只做增强不做改变，为简化开发、提高效率而生。
+    compatibility:
+      - partner: MyBatis Plus任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: ORM框架
+    references:
+      - title: 'MyBatis-Plus - 快速开始'
+        url: 'https://baomidou.com/pages/226c21/'
+  - id: hibernate
+    name: Hibernate
+    logo: logo/hibernate.jpg
+    website: 'https://github.com/hibernate/hibernate-orm'
+    description: Hibernate是一个强大的Java对象/关系映射解决方案，可以轻松地为应用程序、库和框架开发持久性逻辑。
+    compatibility:
+      - partner: Hibernate任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: ORM框架
+    references:
+      - title: 'Hibernate 连接 OceanBase 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640469'
+  - id: spring-data-jpa
+    name: Spring Data JPA
+    logo: logo/spring-data-jpa.jpg
+    website: 'https://github.com/spring-projects/spring-data-jpa'
+    description: Spring Data JPA是Spring Data系列的一部分，可以轻松实现基于JPA的存储库。
+    compatibility:
+      - partner: Spring Data JPA任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: ORM框架
+    references:
+      - title: 'SpringDataJPA 连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640423'
+  - id: gorm
+    name: GORM
+    logo: logo/gorm.jpg
+    website: 'https://github.com/go-gorm/gorm'
+    description: GORM是一个开发者友好的Go ORM框架。
+    compatibility:
+      - partner: GORM任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: ORM框架
+    references:
+      - title: 'GORM 连接 OceanBase 数据库示例程序'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000640463'
+  - id: sqlalchemy
+    name: SQLAlchemy
+    logo: logo/sqlalchemy.jpg
+    website: 'https://github.com/sqlalchemy/sqlalchemy'
+    description: SQLAlchemy是Python SQL工具包和对象关系映射器，为应用程序开发人员提供SQL的全部功能和灵活性。
+    compatibility:
+      - partner: SQLAlchemy任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: ORM框架
+    references:
+      - title: 'SQLAlchemy 2.1 Documentation'
+        url: 'https://docs.sqlalchemy.org/en/21/index.html'
+  - id: sofa-stack
+    name: SOFAStack
+    logo: logo/sofa-stack.jpg
+    website: 'https://github.com/sofastack'
+    description: SOFAStack是一套用于快速构建金融级云原生架构的中间件。
+    compatibility:
+      - partner: SOFAStack任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: '使用 SOFAStack 快速构建微服务'
+        url: 'https://www.sofastack.tech/guides/sofastack-quick-start/'
+  - id: mycat
+    name: Mycat
+    logo: logo/mycat.jpg
+    website: 'https://github.com/MyCATApache/Mycat2'
+    description: Mycat是一款分布式关系型数据库中间件，它支持分布式SQL查询，兼容MySQL通信协议，通过数据分片提高数据查询处理能力。
+    compatibility:
+      - partner: Mycat2任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: 'Mycat2权威指南'
+        url: 'https://www.yuque.com/ccazhw/ml3nkf'
+  - id: mysql-router
+    name: MySQL Router
+    logo: logo/mysql-router.jpg
+    website: 'https://github.com/mysql/mysql-server/tree/8.0/router'
+    description: MySQL Router是InnoDB Cluster的一部分，是轻量级中间件，可在应用程序和后端MySQL服务器之间提供透明路由。
+    compatibility:
+      - partner: MySQL Router任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: 'Documentation: MySQL Router 8.0'
+        url: 'https://dev.mysql.com/doc/mysql-router/8.0/en/'
+  - id: seata
+    name: Seata
+    logo: logo/seata.jpg
+    website: 'https://github.com/apache/incubator-seata'
+    description: Seata是一个易于使用、高性能、开源的分布式事务解决方案。
+    compatibility:
+      - partner: Seata v1.5.x及后续版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: 'Seata - Quick Start'
+        url: 'https://seata.apache.org/docs/user/quickstart'
+  - id: apache-shardingsphere
+    name: Apache ShardingSphere
+    logo: logo/apache-shardingsphere.jpg
+    website: 'https://github.com/apache/shardingsphere'
+    description: Apache ShardingSphere是一个分布式SQL事务和查询引擎，可在任何数据库上进行数据分片、扩展、加密等。
+    compatibility:
+      - partner: Apache ShardingSphere任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: 'ShardingSphere - Documentation'
+        url: 'https://shardingsphere.apache.org/document/current/cn/overview/'
+  - id: vitess
+    name: Vitess
+    logo: logo/vitess.jpg
+    website: 'https://github.com/vitessio/vitess'
+    description: Vitess是一个用于部署、扩展和管理大型开源数据库实例集群的数据库解决方案。
+    compatibility:
+      - partner: Vitess任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: 'Vitess - Documentation'
+        url: 'https://vitess.io/docs/'
+  - id: atlas
+    name: Atlas
+    logo: logo/atlas.jpg
+    website: 'https://github.com/Qihoo360/Atlas'
+    description: Atlas是一个奇虎DBA和基础架构团队开发的高性能、稳定的MySQL代理。
+    compatibility:
+      - partner: Atlas任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: 'Atlas - Wiki'
+        url: 'https://github.com/Qihoo360/Atlas/wiki'
+  - id: cobar
+    name: Cobar
+    logo: logo/cobar.jpg
+    website: 'https://github.com/alibaba/cobar'
+    description: Cobar是一个分库分表的代理，兼容MySQL协议和MySQL SQL语法。
+    compatibility:
+      - partner: Cobar任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: 'Cobar - Quick Start'
+        url: 'https://github.com/alibaba/cobar/wiki/Quick-Start'
+  - id: xxl-job
+    name: XXL-JOB
+    logo: logo/xxl-job.jpg
+    website: 'https://github.com/xuxueli/xxl-job'
+    description: XXL-JOB是一个分布式任务调度平台。
+    compatibility:
+      - partner: XXL-JOB任意版本
+        ob: OceanBase任意版本
+        category: 应用集成
+        subcategory: 数据库中间件
+    references:
+      - title: '分布式任务调度平台XXL-JOB'
+        url: 'https://www.xuxueli.com/xxl-job/'
+  - id: mysql-workbench
+    name: MySQL Workbench
+    logo: logo/mysql-workbench.jpg
+    website: 'https://github.com/mysql/mysql-workbench'
+    description: MySQL Workbench是一个用于数据建模、SQL开发以及服务器配置、用户管理、备份等的图形化综合管理工具。
+    compatibility:
+      - partner: mysql-workbench任意版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: 'MySQL Workbench: SQL Development'
+        url: 'https://www.mysql.com/products/workbench/dev/'
+  - id: dbeaver
+    name: DBeaver
+    logo: logo/dbeaver.jpg
+    website: 'https://github.com/dbeaver/dbeaver'
+    description: Bytebase是一个面向开发人员和DBA的数据库CI/CD工具。
+    compatibility:
+      - partner: DBeaver 21.3.0及后续版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: '通过 DBeaver 连接数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000689395'
+  - id: bytebase
+    name: Bytebase
+    logo: logo/bytebase.jpg
+    website: 'https://github.com/bytebase/bytebase'
+    description: Bytebase是一个面向开发人员和DBA的数据库CI/CD工具。
+    compatibility:
+      - partner: Bytebase 1.17.0及后续版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: '通过 Bytebase 管理 OceanBase 实例'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000691960'
+  - id: sqlyog
+    name: SQLyog
+    logo: logo/sqlyog.jpg
+    website: 'https://github.com/webyog/sqlyog-community'
+    description: SQLyog是一个功能强大的GUI工具，用于管理物理、虚拟和云环境中的MySQL和MariaDB服务器和数据库。
+    compatibility:
+      - partner: SQLyog任意版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: 'SQLyog - Getting Started'
+        url: 'https://sqlyogkb.webyog.com/article/24-getting-started'
+  - id: heidisql
+    name: HeidiSQL
+    logo: logo/heidisql.jpg
+    website: 'https://github.com/HeidiSQL/HeidiSQL'
+    description: HeidiSQL是一个图形化数据库管理工具。
+    compatibility:
+      - partner: HeidiSQL任意版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: 'Basic help on using HeidiSQL'
+        url: 'https://www.heidisql.com/help.php'
+  - id: flyway
+    name: Flyway
+    logo: logo/flyway.jpg
+    website: 'https://github.com/flyway/flyway-community-db-support'
+    description: Flyway是一个数据迁移和版本管理工具。
+    compatibility:
+      - partner: flyway-database-oceanbase 10.7.1及后续版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: 'Flyway Documentation: Migrate'
+        url: 'https://documentation.red-gate.com/flyway/flyway-cli-and-api/commands/migrate'
+      - title: 'Maven Central: flyway-database-oceanbase'
+        url: 'https://central.sonatype.com/artifact/org.flywaydb/flyway-database-oceanbase'
+  - id: goinception
+    name: goInception
+    logo: logo/goinception.jpg
+    website: 'https://github.com/hanchuanchuan/goInception'
+    description: goInception是一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具。
+    compatibility:
+      - partner: goInception master分支最新版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: 'goInception Docs'
+        url: 'https://hanchuanchuan.github.io/goInception/'
+  - id: sqladvisor
+    name: SQLAdvisor
+    logo: logo/sqladvisor.jpg
+    website: 'https://github.com/Meituan-Dianping/SQLAdvisor'
+    description: SQLAdvisor是一个分析SQL给出索引优化建议的工具。它基于MySQL原生态词法解析，结合分析SQL中的where条件、聚合条件、多表Join关系给出索引优化建议。
+    compatibility:
+      - partner: SQLAdvisor任意版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: 数据开发
+    references:
+      - title: 'SQLAdvisor - Quick Start'
+        url: 'https://github.com/Meituan-Dianping/SQLAdvisor/blob/master/doc/QUICK_START.md'
+  - id: tableau
+    name: Tableau
+    logo: logo/tableau.jpg
+    website: 'https://www.tableau.com/'
+    description: Tableau是一个可视化分析平台。
+    compatibility:
+      - partner: Tableau最新版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: BI及报表
+    references:
+      - title: 'Tableau - MySQL Connector'
+        url: 'https://help.tableau.com/current/pro/desktop/en-us/examples_mysql.htm'
+  - id: quickbi
+    name: Quick BI
+    logo: logo/quickbi.jpg
+    website: 'https://www.aliyun.com/product/quick-bi'
+    description: Quick BI是一款全场景数据消费式的BI产品，提供了智能的数据分析和可视化能力，帮助企业构建数据分析系统。
+    compatibility:
+      - partner: Quick BI最新版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: BI及报表
+    references:
+      - title: '云数据源Alibaba OceanBase'
+        url: 'https://help.aliyun.com/zh/quick-bi/user-guide/cloud-data-source-alibaba-oceanbase'
+      - title: '自建数据源MySQL'
+        url: 'https://help.aliyun.com/zh/quick-bi/user-guide/user-created-data-source-mysql'
+  - id: datav
+    name: DataV
+    logo: logo/datav.jpg
+    website: 'https://datav.aliyun.com/portal'
+    description: DataV是一款使用可视化应用的方式来分析并展示庞杂数据的阿里云产品。
+    compatibility:
+      - partner: DataV最新版本
+        ob: OceanBase任意版本
+        category: 数据治理
+        subcategory: BI及报表
+    references:
+      - title: '添加OceanBase for MySQL数据源'
+        url: 'https://help.aliyun.com/zh/datav/datav-6-0/user-guide/add-oceanbase-for-mysql-data-sources'
+  - id: datax
+    name: DataX
+    logo: logo/datax.jpg
+    website: 'https://github.com/alibaba/DataX'
+    description: DataX是阿里云DataWorks数据集成的开源版本。
+    compatibility:
+      - partner: datax_v202210及后续版本
+        ob: OceanBase任意版本
+        category: 数据集成与备份
+        subcategory: 数据迁移及备份
+    references:
+      - title: '使用 DataX 迁移 MySQL 表数据到 OceanBase 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000639634'
+      - title: '使用 Datax 迁移 OceanBase 表数据到 MySQL 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000639628'
+  - id: canal
+    name: Canal
+    logo: logo/canal.jpg
+    website: 'https://github.com/alibaba/canal'
+    description: Canal是阿里巴巴开源的MySQL binlog增量订阅&消费组件。
+    compatibility:
+      - partner: Canal任意版本
+        ob: Binlog Service任意版本
+        category: 数据集成与备份
+        subcategory: 数据迁移及备份
+    references:
+      - title: '使用 Canal 从 MySQL 数据库同步数据到 OceanBase 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000639629'
+      - title: '使用 Canal 从 OceanBase 数据库同步数据到 MySQL 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000639621'
+  - id: chunjun
+    name: Chunjun
+    logo: logo/chunjun.jpg
+    website: 'https://github.com/DTStack/chunjun'
+    description: 袋鼠云开源的高性能、分布式、扩展性强的数据同步工具，支持批量和流式的数据同步。
+    compatibility:
+      - partner: Chunjun v1.12.6及后续版本
+        ob: OceanBase社区版任意版本
+        category: 数据集成与备份
+        subcategory: 数据迁移及备份
+    references:
+      - title: '使用 Canal 从 MySQL 数据库同步数据到 OceanBase 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000639629'
+      - title: '使用 Canal 从 OceanBase 数据库同步数据到 MySQL 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000639621'
+  - id: flink-cdc
+    name: Flink CDC
+    logo: logo/flink-cdc.jpg
+    website: 'https://github.com/apache/flink-cdc'
+    description: Flink CDC是一个针对实时数据和批量数据的分布式数据集成工具。
+    compatibility:
+      - partner: Flink CDC最新版本
+        ob: OceanBase 社区版或云数据库V3&V4
+        category: 数据集成与备份
+        subcategory: 数据迁移及备份
+    references:
+      - title: '通过 Flink 同步数据'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-cloud-1000000000683601'
+  - id: apache-seatunnel
+    name: Apache SeaTunnel
+    logo: logo/apache-seatunnel.jpg
+    website: 'https://github.com/apache/seatunnel'
+    description: Apache SeaTunnel是一个新一代的高性能分布式数据集成工具。
+    compatibility:
+      - partner: Apache SeaTunnel 2.3.3及后续版本
+        ob: OceanBase任意版本
+        category: 数据集成与备份
+        subcategory: 数据迁移及备份
+    references:
+      - title: '使用 SeaTunnel 读取和同步 OceanBase 数据'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000698059'
+  - id: cloudcanal
+    name: CloudCanal
+    logo: logo/cloudcanal.jpg
+    website: 'https://www.clougence.com/'
+    description: CloudCanal是一款数据同步、迁移工具，帮助企业构建高质量数据管道，具备实时高效、精确互联、稳定可拓展、一站式、混合部署、复杂数据转换等优点。
+    compatibility:
+      - partner: 最新版本
+        ob: OceanBase社区版或云数据库V3&V4
+        category: 数据集成与备份
+        subcategory: 数据迁移及备份
+    references:
+      - title: 'Cloud Canal - 源端数据源 OceanBase'
+        url: 'https://www.clougence.com/cc-doc/dataMigrationAndSync/connection/oceanbase2'
+  - id: apache-flink
+    name: Apache Flink
+    logo: logo/apache-flink.jpg
+    website: 'https://github.com/apache/flink'
+    description: Apache Flink是Apache基金会的一个开源流处理框架，用于处理大规模数据的实时计算。
+    compatibility:
+      - partner: Apache Flink任意版本
+        ob: OceanBase任意版本
+        category: 数据集成与备份
+        subcategory: 大数据处理
+    references:
+      - title: 'JDBC SQL Connector'
+        url: 'https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/jdbc/'
+  - id: apache-spark
+    name: Apache Spark
+    logo: logo/apache-spark.jpg
+    website: 'https://github.com/apache/spark'
+    description: Apache Spark是Apache基金会的一个开源大数据处理框架，强调速度和易用性，支持复杂的数据分析任务。
+    compatibility:
+      - partner: Apache Spark任意版本
+        ob: OceanBase任意版本
+        category: 数据集成与备份
+        subcategory: 大数据处理
+    references:
+      - title: 'Spark SQL Guide - JDBC To Other Databases'
+        url: 'https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html'
+  - id: apache-dolphinscheduler
+    name: Apache DolphinScheduler
+    logo: logo/apache-dolphinscheduler.jpg
+    website: 'https://github.com/apache/dolphinscheduler'
+    description: Apache DolphinScheduler是Apache基金会的一个分布式、易扩展的可视化DAG工作流任务调度系统。
+    compatibility:
+      - partner: Apache DolphinScheduler最新版本
+        ob: OceanBase任意版本
+        category: 数据集成与备份
+        subcategory: 大数据处理
+    references:
+      - title: '为 DolphinScheduler 配置 OceanBase 数据源'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000698058'
+  - id: apache-linkis
+    name: Apache Linkis
+    logo: logo/apache-linkis.jpg
+    website: 'https://github.com/apache/linkis'
+    description: Apache Linkis是Apache基金会的企业级一站式大数据处理平台，支持多计算存储引擎的任务提交、执行和资源管理。
+    compatibility:
+      - partner: Apache Linkis 1.3.2及后续版本
+        ob: OceanBase任意版本
+        category: 数据集成与备份
+        subcategory: 大数据处理
+    references:
+      - title: 'Linkis 集成 OceanBase 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000698060'
+  - id: piflow
+    name: PiFlow
+    logo: logo/piflow.jpg
+    website: 'https://github.com/cas-bigdatalab/piflow'
+    description: Piflow是中国科学院开源的一个便于使用、高性能的大数据流程调度和管理系统。
+    compatibility:
+      - partner: PiFlow 1.3及后续版本
+        ob: OceanBase任意版本
+        category: 数据集成与备份
+        subcategory: 大数据处理
+    references:
+      - title: 'GitHub - Getting Started'
+        url: 'https://github.com/cas-bigdatalab/piflow?tab=readme-ov-file#getting-started'
+  - id: kubernetes
+    name: Kubernetes
+    logo: logo/kubernetes.jpg
+    website: 'https://github.com/kubernetes/kubernetes'
+    description: Kubernetes是一个用于管理跨多个主机的容器化应用程序的开源系统。它提供了应用程序的部署、维护和扩展的基本机制。
+    compatibility:
+      - partner: Kubernetes任意版本
+        ob: OceanBase社区版V4
+        category: 管控平台
+        subcategory: 云原生
+    references:
+      - title: '在 Kubernetes 环境中部署 OceanBase 数据库'
+        url: 'https://www.oceanbase.com/docs/common-oceanbase-database-cn-1000000000639853'
+  - id: grafana
+    name: Grafana
+    logo: logo/grafana.jpg
+    website: 'https://github.com/grafana/grafana'
+    description: Grafana是一个开放且可组合的可观测性和数据可视化平台。
+    compatibility:
+      - partner: Grafana最新版本
+        ob: OceanBase V4
+        category: 管控平台
+        subcategory: 云原生
+    references:
+      - title: 'Grafana Labs documentation - MySQL data source'
+        url: 'https://grafana.com/docs/grafana/latest/datasources/mysql/'
+  - id: prometheus
+    name: Prometheus
+    logo: logo/prometheus.jpg
+    website: 'https://github.com/prometheus/prometheus'
+    description: Prometheus 是一个云原生的系统和服务监控系统。
+    compatibility:
+      - partner: Prometheus最新版本
+        ob: OceanBase V4
+        category: 管控平台
+        subcategory: 云原生
+    references:
+      - title: '将 OCP 监控集成到 Prometheus'
+        url: 'https://www.oceanbase.com/docs/common-ocp-1000000000584774'
+  - id: kubeblocks
+    name: KubeBlocks
+    logo: logo/kubeblocks.jpg
+    website: 'https://github.com/apecloud/kubeblocks'
+    description: KubeBlocks是一个开源控制平面，可在K8s上运行和管理数据库、消息队列和其他数据基础设施。
+    compatibility:
+      - partner: KubeBlocks 0.7及后续版本
+        ob: OceanBase社区版V4
+        category: 管控平台
+        subcategory: 云原生
+    references:
+      - title: '可以使用KubeBlocks管理你的OceanBase集群啦！'
+        url: 'https://open.oceanbase.com/blog/7747938080'
+  - id: sealer
+    name: Sealer
+    logo: logo/sealer.jpg
+    website: 'https://github.com/sealerio/sealer'
+    description: Sealer提供了一种分布式应用程序交付的新方式，通过将Kubernetes集群和所有应用程序的依赖项打包到一个ClusterImage中来降低难度和复杂性。
+    compatibility:
+      - partner: Sealer最新版本
+        ob: OceanBase社区版V4
+        category: 管控平台
+        subcategory: 云原生
+    references:
+      - title: 'Docker Hub - oceanbase sealer'
+        url: 'https://hub.docker.com/r/oceanbase/oceanbase-sealer'
+  - id: terraform
+    name: Terraform
+    logo: logo/terraform.jpg
+    website: 'https://github.com/hashicorp/terraform'
+    description: HashiCorp开发的一个IT基础设施自动编排和部署的开源工具，支持多云环境和各种服务提供商。
+    compatibility:
+      - partner: Terraform最新版本
+        ob: OceanBase社区版V4
+        category: 管控平台
+        subcategory: 云原生
+    references:
+      - title: 'Deploy ob-operator using terraform'
+        url: 'https://github.com/oceanbase/ob-operator?tab=readme-ov-file#using-terraform'
