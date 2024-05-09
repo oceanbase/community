@@ -7,14 +7,14 @@
 
 > 文件名 "投票事件" 用英文书写。
 
-发起投票请填写投票模板，参考 [投票模板](./VOTE_TEMPLATE.md)，并发起 PR。通常投票是配合其它事件发生的，比如：
+发起投票请填写投票模板，参考 [投票模板](./template/VOTE_TEMPLATE.md)，并发起 PR。通常投票是配合其它事件发生的，比如：
 - SIG 创建、变更、终止；
 - SIG 成员变更；
 - SIG 信息变更
 - TOC 成员变更；
 - TOC 信息变更；
 
-申请创建新项目，参考 [创建项目申请模板](./CREATE_REPO_TEMPLATE.md)，并发起 PR。
+申请创建新项目，参考 [创建项目申请模板](./template/CREATE_REPO_TEMPLATE.md)，并发起 PR。
 
 ## 投票规则
 某些信息变更已经有了明确的投票规则，比如 SIG 创建、变更、终止，TOC 成员变更等。如果没有明确的投票规则，则按照下面的规则与流程进行投票。
@@ -26,7 +26,7 @@
 **流程**
 
 - 发起投票。在 [oceanbase/community](https://github.com/oceanbase/community) 中发起 PR，修改对应信息，并在 PR 的描述中说明修改内容和原因；
-- 填写投票信息。在当前目录下创建一个新的投票文件，按照[投票模板](./VOTE_TEMPLATE.md)填写投票信息；
+- 填写投票信息。在当前目录下创建一个新的投票文件，按照[投票模板](./template/VOTE_TEMPLATE.md)填写投票信息；
 - TOC 成员投票；
 - 投票通过后，PR 会被 merge，变更成功。否则变更失败。
 
