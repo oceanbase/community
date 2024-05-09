@@ -21,11 +21,11 @@
 > 检查清单是为了让项目更规范，让社区用户更容易使用。应该在项目创建后，尽快补充清单中的信息。
 
 - [] 包含 README.md
-- [] 代码类项目需要包含 CONTRIBUTING.md。参考 OceanBase 社区 [CONTRIBUTING 文件](https://github.com/oceanbase/.github/blob/main/CONTRIBUTING.md)
+- [] 工程类项目需要包含 CONTRIBUTING.md。参考 OceanBase 社区 [CONTRIBUTING 文件](https://github.com/oceanbase/.github/blob/main/CONTRIBUTING.md)
 - [] 包含文件 CODE_OF_CONDUCT.md （没有此文件将使用社区现有的[行为准则文件](https://github.com/oceanbase/.github/blob/main/CODE_OF_CONDUCT.md) ）
-- [] 包含用户安装指导说明（通常在README.md中说明）
-- [] 包含用户使用指导说明（通常在README.md中说明）
-- [] 包含编译指导说明（通常在README.md中说明）
+- [] 工程类项目包含用户安装指导说明（通常在README.md中说明）
+- [] 工程类项目包含用户使用指导说明（通常在README.md中说明）
+- [] 工程类项目代码类项目包含编译指导说明（通常在README.md中说明）
 
 ## 投票截止时间
 如果不满足投票条件，此投票将在 2021 年 12 月 31 日截止。
