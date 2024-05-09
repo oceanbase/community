@@ -13,4 +13,4 @@ OceanBase 社区下的仓库
 
 
 ## 投票结果
-参考 [创建新项目流程投票](一个 pull request链接)。
+参考 [创建新项目流程投票](https://github.com/oceanbase/community/pull/2)。
