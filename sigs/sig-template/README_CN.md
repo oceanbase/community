@@ -17,7 +17,7 @@
 周会信息（如果有的话）：每周周五下午4点（北京时间）
 周会归档：[周会记录](https://oceanbase.yuque.com/org-wiki-obtech-vh7w9r/imzr6c/sm9xzu63xq2688wz)
 
-微信群：添加xxx，备注“SIG-xxx”，等待邀请入群
+微信群：添加OB社区小助手(微信号：OBCE666），备注“SIG-xxx”，等待邀请入群。
 
 ## 组织架构
 > 我们要求成立一个SIG，最少有3个人
