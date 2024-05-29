@@ -38,4 +38,4 @@
 
 ## 投票结果
 
-参考 [申请添加 dbt-oceanbase 代码仓库投票结果](https://github.com/oceanbase/community/pull/6)。
+参考 [申请添加 dbt-oceanbase 代码仓库投票结果](https://github.com/oceanbase/community/pull/7)。
