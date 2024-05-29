@@ -6,7 +6,7 @@
 
 项目目的：给 dbt 增加 OceanBase 插件
 
-[dbt](https://github.com/dbt-labs/dbt-core) 是一款非常流行的开源 AP 工具，支持多种数据库。dbt 对不同数据库的支持是通过数据库厂商或社区提供相应数据库的适配器（adapter）实现的。希望在 OceanBase 组织下添加 dbt-oceanbase 仓库帮助 OceanBase 数据库实现以下功能：
+[dbt-core](https://github.com/dbt-labs/dbt-core) 是一款非常流行的开源 AP 工具，支持多种数据库。dbt 对不同数据库的支持是通过数据库厂商或社区提供相应数据库的适配器（adapter）实现的。希望在 OceanBase 组织下添加 dbt-oceanbase 仓库帮助 OceanBase 数据库实现以下功能：
 
 - 支持 dbt-core 连接到 OceanBase 数据库；
 - 支持在 OceanBase 数据库上运行 dbt 项目；
