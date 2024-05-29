@@ -12,10 +12,10 @@
 - 支持在 OceanBase 数据库上运行 dbt 项目；
 
 项目责任人（github id）：
-- PMC：yhilmare
 - PMC：yizhouxw
-- PMC：LuckyPickleZZ
-- PMC：smallsheeeep
+- PMC：yhilmare
+- committer：LuckyPickleZZ
+- committer：smallsheeeep
 
 开源协议：Apache 2.0
 
