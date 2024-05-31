@@ -17,14 +17,29 @@ SIG 的全称是 Special Interest Group，即特别兴趣小组。SIG 必须保�
 - 填写[投票信息](../votes/README_CN.md)；
 - 填写 README 文件和 membership.yml 文件。其中 membership.yml 文件填写 Maintainer 信息，和各个项目中的 Committer 信息；
 - 按照 review 意见调整 PR 内容；
-- 不少于 2/3 TOC 成员审批通过后，PR 会被 merge，SIG 正式成立。必要时会邀请你参会讨论。
+- 投票审批通过后，PR 会被 merge，SIG 正式成立。必要时会邀请你参会讨论。
+
+投票通过必须满足以下所有条件：
+- 不少于 2/3 TOC 成员审批通过；
+- 所有 Maintainer 投票通过。
 
 ## 更新SIG信息
 
 SIG 信息变更的内容不同，需要由不同角色的人来审核。
-以下内容变更需要由 TOC 成员(不少于 2/3 通过)审核，其它的由 SIG Maintainer(不少于 2/3 通过) 审核。
-- SIG Maintainer 成员变更；
-- SIG 项目列表变更；
+
+投票通过条件：
+
+**SIG 项目列表变更**
+- 不少于 2/3 TOC 成员投票通过。
+
+**SIG Maintainer 成员变更**
+
+需要同时满足：
+- 不少于 2/3 TOC 成员投票通过；
+- 所有新增 Maintainer 成员投票通过。
+
+**其它**
+- 不少于 2/3 Maintainer 通过。
 
 **变更流程**
 

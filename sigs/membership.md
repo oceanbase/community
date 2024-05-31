@@ -30,7 +30,7 @@ SIG 组织架构信息可以在各SIG目录的README和 membership.yml 文件中
 
 ### 申请
 
-自己提交申请或由 SIG Maintainer 发起提议，不少于 2/3 TOC 审核通过。
+自己提交申请或由 SIG Maintainer 发起提议，不少于 2/3 TOC 审核通过并且新增 Maintainer 投票通过。
 
 ### 退出
 
