@@ -21,13 +21,15 @@
 
 **规则**
 
-不少于 2/3 的 TOC 成员投票通过。
+通过必须同时满足以下条件：
+- 不少于 2/3 的 TOC 成员投票通过；
+- 如果涉及增加 PMC 成员，新增的 PMC 成员必须全部投票通过。
 
 **流程**
 
 - 发起投票。在 [oceanbase/community](https://github.com/oceanbase/community) 中发起 PR，修改对应信息，并在 PR 的描述中说明修改内容和原因；
 - 填写投票信息。在当前目录下创建一个新的投票文件，按照[投票模板](./template/VOTE_TEMPLATE.md)填写投票信息；
-- TOC 成员投票；
+- TOC、PMC 成员投票；
 - 投票通过后，PR 会被 merge，变更成功。否则变更失败。
 
 ## 如何投票
