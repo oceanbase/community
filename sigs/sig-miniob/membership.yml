@@ -1,0 +1,15 @@
+maintainers:
+- github_id: hnwyllmm
+  name: 王运来
+  organization: OceanBase
+- github_id: nauta
+  name: 贾宇航
+  organization: OceanBase
+repositories:
+- repo:
+  - oceanbase/miniob
+  contributors:
+  - github_id: lychnin
+    name: 刘一
+    organization: 香港城市大学
+  - github_id: Wenbin1002
