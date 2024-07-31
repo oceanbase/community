@@ -2,7 +2,7 @@ maintainers:
 - github_id: abcd1
   name: Abcd
   organization: OceanBase
-  - github_id: abcd2
+- github_id: abcd2
   name: DEFG
   organization: OceanBase
 repositories:
