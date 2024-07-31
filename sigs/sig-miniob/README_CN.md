@@ -7,7 +7,7 @@ MiniOB项目的目标是为在校学生、数据库从业者、爱好者或对�
 
 ## 项目列表
 
-- [oceanbase/oceanbase](https://github.com/oceanbase/miniob)
+- [oceanbase/miniob](https://github.com/oceanbase/miniob)
 
 ## 语雀文档
 
