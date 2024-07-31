@@ -1,0 +1,18 @@
+maintainers:
+- github_id: chris-sun-star
+  name: 孙宏鑫
+  organization: OceanBase
+- github_id: powerfooI
+  name: 王述熠
+  organization: OceanBase
+repositories:
+- repo:
+  - oceanbase/ob-operator
+  committers:
+  - github_id: yang1666204
+    name: 李洋
+    organization: Digital Engine
+  contributor:
+  - github_id: lizzy-0323
+    name: 李子毅
+    organization: Wuhan University
