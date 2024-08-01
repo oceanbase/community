@@ -29,8 +29,8 @@ https://oceanbase.yuque.com/org-wiki-obtech-vh7w9r/cloud-native
 - 王述熠(@powerfooI), OceanBase
 
 ### Committer
-- 李洋(@yang1666204), Digital Engine
+- 李洋(@yang1666204), OceanBase
 
 ### Contributor
-- 李子毅(@lizzy-0323), Wuhan University
+- 李子毅(@lizzy-0323), 武汉大学
 
