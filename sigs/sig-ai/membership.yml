@@ -1,0 +1,10 @@
+maintainers:
+- github_id: caifeizhi
+  name: 蔡飞志
+  organization: OceanBase
+- github_id: GITHUBear
+  name: 单海康
+  organization: OceanBase
+repositories:
+- repo:
+  - oceanbase/oceanbase
