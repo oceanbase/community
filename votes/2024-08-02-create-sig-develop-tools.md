@@ -10,4 +10,4 @@ develop-tools 专注于解放数据库开发生产力，提供丰富的 SQL 开�
 develop-tools SIG 成员。
 
 ## 投票结果
-参考 [develop-tools SIG 成立投票结果](一个 pull request链接)。
+参考 [develop-tools SIG 成立投票结果](https://github.com/oceanbase/community/pull/13)。
