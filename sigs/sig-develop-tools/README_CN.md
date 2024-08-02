@@ -32,5 +32,5 @@ develop-tools 专注于解放数据库开发生产力，提供丰富的 SQL 开�
 - 李兆(@onthewayaways), 海尔消金
 - 咖啡哥(@qianhaohu), 德邦快递
 - 郭旭瑞(@dba-lex), 中信证券
-- 冯浩(@ISADBA), 书声科技
+- ISADBA(@ISADBA)
 
