@@ -1,0 +1,82 @@
+maintainers:
+  - github_id: Jane201510
+    name: 泛秋
+    organization: OceanBase
+  - github_id: yizhouxw
+    name: 诣舟
+    organization: OceanBase
+  - github_id: MarkPotato777
+    name: 乐别
+    organization: OceanBase
+
+repositories:
+  - repo:
+      - oceanbase/odc
+    committers:
+      - github_id: PeachThinking
+        name: 菁甜
+        organization: OceanBase
+      - github_id: tonghan-gsh
+        name: 彤涵
+        organization: OceanBase
+      - github_id: Huangxiao-mas
+        name: 朴悦
+        organization: OceanBase
+      - github_id: LuckyPickleZZ
+        name: 文慕
+        organization: OceanBase
+      - github_id: ungreat
+        name: 亦卬
+        organization: OceanBase
+      - github_id: yhilmare
+        name: 山露
+        organization: OceanBase
+      - github_id: guowl3
+        name: 天客
+        organization: OceanBase
+      - github_id: HSunboy
+        name: 晓康
+        organization: OceanBase
+      - github_id: sl01388797
+        name: 石林
+        organization: OceanBase
+      - github_id: UnknownAdventurer
+        name: 陈朝俊
+        organization: OceanBase
+      - github_id: zijiacj
+        name: 孜佳
+        organization: OceanBase
+      - github_id: yezaoshu
+        name: 畅晚
+        organization: OceanBase
+      - github_id: kiko-art
+        name: 梓烟
+        organization: OceanBase
+      - github_id: ysjemmm
+        name: 码扬
+        organization: OceanBase
+      - github_id: yiminpeng
+        name: 亦浊
+        organization: OceanBase
+      - github_id: CHLK
+        name: 柯杨
+        organization: OceanBase
+      - github_id: LioRoger
+        name: 龙玄
+        organization: OceanBase
+      - github_id: manyyuri
+        name: 之瑛
+        organization: OceanBase
+    contributors:
+      - github_id: onthewayaways
+        name: 李兆
+        organization: 海尔消金
+      - github_id: qianhaohu
+        name: 咖啡哥
+        organization: 德邦快递
+      - github_id: dba-lex
+        name: 郭旭瑞
+        organization: 中信证券
+      - github_id: ISADBA
+        name: 冯浩
+        organization: 书声科技
