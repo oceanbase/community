@@ -1,0 +1,47 @@
+maintainers:
+- github_id: frf12
+  name: 玉楼
+  organization: OceanBase
+- github_id: gys-git
+  name: 谐云
+  organization: OceanBase
+- github_id: alv00
+  name: 阿绿
+  organization: OceanBase
+repositories:
+- repo:
+  - oceanbase/obdeploy
+  - oceanbase/obd-doc
+  committers:
+  - github_id: frf12
+    name: 玉楼
+    organization: OceanBase
+  - github_id: gys-git
+    name: 谐云
+    organization: OceanBase
+  - github_id: yang1666204
+    name: 宴晖
+    organization: OceanBase
+  - github_id: 
+    name: 姜涛
+    organization: OceanBase
+  - github_id: 
+    name: 谢凯
+    organization: OceanBase
+  - github_id: 
+    name: 潘佳瑶
+    organization: OceanBase
+- repo:
+  - oceanbase/obshell
+  - oceanbase/obshell-sdk-go
+  - oceanbase/obshell-sdk-python
+  committers:
+  - github_id: frf12
+    name: 玉楼
+    organization: OceanBase
+  - github_id: alv00
+    name: 阿绿
+    organization: OceanBase
+  - github_id: Junkrat77
+    name: 甘霖
+    organization: OceanBase
