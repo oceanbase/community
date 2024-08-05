@@ -32,7 +32,7 @@
 
 ### Committer
 
-- 甘霖(@Junkrat77), OceanBase
-- 宴晖(@yang1666204), OceanBase
+- 甘泉(@Junkrat77), OceanBase
+- 李洋(@yang1666204), OceanBase
 
 ### Contributor
