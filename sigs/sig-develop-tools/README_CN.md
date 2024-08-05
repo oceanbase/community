@@ -17,15 +17,15 @@ develop-tools 专注于解放数据库开发生产力，提供丰富的 SQL 开�
 
 ### Maintainer
 
-- 泛秋(@Jane201510), OceanBase
-- 诣舟(@yizhouxw), OceanBase
-- 乐别(@MarkPotato777), OceanBase
+- 胡智娟(@Jane201510), OceanBase
+- 陈小伟(@yizhouxw), OceanBase
+- 彭一诺(@MarkPotato777), OceanBase
 
 ### Committer
 
-- 彤涵(@tonghan-gsh), OceanBase
-- 天客(@guowl3), OceanBase
-- 亦卬(@ungreat), OceanBase
+- 郭舒涵(@tonghan-gsh), OceanBase
+- 郭文龙(@guowl3), OceanBase
+- 卢轶昂(@ungreat), OceanBase
 
 ### Contributor
 
