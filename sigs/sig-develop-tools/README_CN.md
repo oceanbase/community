@@ -23,6 +23,7 @@ develop-tools 专注于解放数据库开发生产力，提供丰富的 SQL 开�
 
 ### Committer
 
+- ISADBA(@ISADBA)
 - 郭舒涵(@tonghan-gsh), OceanBase
 - 郭文龙(@guowl3), OceanBase
 - 卢轶昂(@ungreat), OceanBase
@@ -32,5 +33,4 @@ develop-tools 专注于解放数据库开发生产力，提供丰富的 SQL 开�
 - 李兆(@onthewayaways), 海尔消金
 - 咖啡哥(@qianhaohu), 德邦快递
 - 郭旭瑞(@dba-lex), 中信证券
-- ISADBA(@ISADBA)
 
