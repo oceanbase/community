@@ -26,9 +26,9 @@
 
 ### Maintainer
 
-- 玉楼(@frf12), OceanBase
-- 谐云(@gys-git), OceanBase
-- 阿绿(@alv00), OceanBase
+- 傅榕锋(@frf12), OceanBase
+- 高云山(@gys-git), OceanBase
+- 丁静(@alv00), OceanBase
 
 ### Committer
 
