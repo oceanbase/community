@@ -14,7 +14,7 @@ pyobvector 是 OceanBase 向量存储功能的 python sdk ，具有以下价值�
 项目责任人(github id)：
 
 - PMC：GITHUBear
-- Committer: GITHUBear
+- Committer: powerfooi
 
 开源协议：Apache 2.0
 
