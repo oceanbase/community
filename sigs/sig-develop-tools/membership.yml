@@ -1,0 +1,36 @@
+maintainers:
+  - github_id: Jane201510
+    name: 胡智娟
+    organization: OceanBase
+  - github_id: yizhouxw
+    name: 陈小伟
+    organization: OceanBase
+  - github_id: MarkPotato777
+    name: 彭一诺
+    organization: OceanBase
+
+repositories:
+  - repo:
+      - oceanbase/odc
+    committers:
+      - github_id: ISADBA
+        name: ISADBA
+      - github_id: tonghan-gsh
+        name: 郭舒涵
+        organization: OceanBase
+      - github_id: ungreat
+        name: 卢轶昂
+        organization: OceanBase
+      - github_id: guowl3
+        name: 郭文龙
+        organization: OceanBase
+    contributors:
+      - github_id: onthewayaways
+        name: 李兆
+        organization: 海尔消金
+      - github_id: qianhaohu
+        name: 咖啡哥
+        organization: 德邦快递
+      - github_id: dba-lex
+        name: 郭旭瑞
+        organization: 中信证券
