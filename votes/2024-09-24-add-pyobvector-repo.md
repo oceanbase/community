@@ -8,7 +8,7 @@
 
 pyobvector 是 OceanBase 向量存储功能的 python sdk ，具有以下价值：
 
-1. 直接通过 SQL 使用 OceanBase 向量存储功能非常不灵活，而 python 具有丰富的向量处理、科学计算库，提供 python sdk 能够极大提升产品的易用性；
+1. 在向量存储场景，相比于SQL，部分开发者更习惯使用SDK的访问方式；另外，python 具有丰富的向量处理、科学计算库，提供 python sdk 能够极大提升产品的易用性；
 2. 目前主流的 AI 应用框架都采用 python 实现，python sdk 能够帮助 OceanBase 更方便地集成到开源 AI 应用框架；
 
 项目责任人(github id)：
