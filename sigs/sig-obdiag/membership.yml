@@ -8,6 +8,9 @@ maintainers:
 - github_id: frf12
   name: 傅榕锋
   organization: OceanBase
+- github_id: wayyoungboy
+  name: 王煦焱
+  organization: OceanBase
 repositories:
 - repo:
   - oceanbase/obdiag
