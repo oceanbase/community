@@ -18,4 +18,4 @@
 obdiag SIG 成员。
 
 ## 投票结果
-参考 [obdiag SIG Maintainer 选举投票结果](https://github.com/oceanbase/community/pull/20)。
+参考 [obdiag SIG Maintainer 选举投票结果](https://github.com/oceanbase/community/pull/21)。
