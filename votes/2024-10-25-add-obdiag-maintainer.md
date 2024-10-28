@@ -1,4 +1,4 @@
-# 选举 王煦焱 为 obdiag Maintainer 的投票
+# 选举 wayyoungboy 为 obdiag Maintainer 的投票
 
 ## 提案说明
 王煦焱(github id: wayyoungboy) 成为 obdiag 的 Committer 已经超过一年，王煦焱负责了 obdiag 中的“一键根因分析”、“一键巡检”两大功能模块的，在功能开发、代码Review、技术文档编写方面做出了重要贡献。现提议王煦焱成为 obdiag 的 Maintainer。
