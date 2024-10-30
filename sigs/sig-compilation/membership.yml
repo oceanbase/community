@@ -1,0 +1,13 @@
+maintainers:
+- github_id: caifeizhi
+  name: 蔡飞志
+  organization: OceanBase
+- github_id: MizuhaHimuraki
+  name: 侯宇轩
+  organization: OceanBase
+- github_id: LINxiansheng
+  name: 王泽林
+  organization: OceanBase
+repositories:
+- repo:
+  - oceanbase/oceanbase
