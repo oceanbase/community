@@ -17,7 +17,7 @@ https://oceanbase.yuque.com/org-wiki-obtech-vh7w9r/miniob
 
 周会信息（如果有的话）：当前没有周会
 
-微信群：添加OB社区小助手(微信号：OBCE666），备注“SIG-miniob”，等待邀请入群。
+微信群：添加OB SIG小助手(微信号：OBCE888），备注“SIG-miniob”，等待邀请入群。
 
 ## 组织架构
 

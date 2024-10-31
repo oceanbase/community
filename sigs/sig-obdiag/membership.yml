@@ -15,9 +15,15 @@ repositories:
 - repo:
   - oceanbase/obdiag
   committers:
-  - github_id: wayyoungboy
-    name: 王煦焱
-    organization: OceanBase
-  - github_id: Teingi
-    name: 汤庆
-    organization: OceanBase
+  - github_id: RoyceHwangCN
+    name: 黄尖
+    organization: 百丽
+  - github_id: xiaodong-ji
+    name: 纪晓东
+    organization: 北控水务
+  - github_id: jingyd66
+    name: 靖永栋
+    organization: 联通软件研究院
+  - github_id: oraclebird
+    name: 孙鹏
+    organization: 南京基石数据

@@ -16,7 +16,7 @@ https://oceanbase.yuque.com/org-wiki-obtech-vh7w9r/cloud-native
 周会信息：每周周五下午2点（北京时间）
 周会归档：[周会记录](https://oceanbase.yuque.com/org-wiki-obtech-vh7w9r/cloud-native/hng2krvfkygb375x)
 
-微信群：添加OB社区小助手(微信号：OBCE666），备注“SIG-cloud-native”，等待邀请入群。
+微信群：添加OB SIG小助手(微信号：OBCE888），备注“SIG-cloud-native”，等待邀请入群。
 
 
 ## 组织架构
