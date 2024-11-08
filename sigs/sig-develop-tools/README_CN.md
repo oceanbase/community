@@ -10,7 +10,7 @@ develop-tools 专注于解放数据库开发生产力，提供丰富的 SQL 开�
 
 ## 联系信息
 
-微信群：添加OB社区小助手(微信号：OBCE666），备注“SIG-develop-tools”，等待邀请入群。
+微信群：添加OB SIG小助手(微信号：OBCE888），备注“SIG-develop-tools”，等待邀请入群。
 
 
 ## 组织架构

@@ -7,8 +7,8 @@
 项目目的：项目用于做什么，可以解决什么问题，面向的用户群体等等
 
 项目责任人(github id)：
-- PMC：
-- PMC：
+- Maintainer:
+- Maintainer:
 - Committer:
 - Committer:
 

@@ -30,6 +30,7 @@ obdiag的功能如下：
 - 一键诊断分析：使用 obdiag analyze 命令可帮助 OceanBase 数据库相关的诊断信息分析，目前支持对 OceanBase 的日志进行一键分析，找出发生过的错误信息；一键全链路诊断分析，展示全链路诊断树，定位链路慢在何处。
 - 一键信息收集：使用 obdiag gather 命令可帮助 OceanBase 数据库相关的诊断信息收集。目前支持基础诊断信息收集和基于场景的诊断信息一键收集。
 - 一键根因分析：使用 obdiag rca 命令可帮助 OceanBase 数据库相关的诊断信息分析，目前支持对 OceanBase 的异常场景进行分析，找出可能导致问题的原因。
+- 一键集群洞察：使用 obdiag display 命令可帮助洞察 OceanBase 数据库相关的信息。
 
 ## 关联的代码仓库
 
@@ -43,7 +44,7 @@ obdiag的功能如下：
 周会信息：每周举行一次线上周会，会议时间初定每周五 16:00-17:00。会议纪要记录到外网语雀文档和 GitHub 中
 周会归档：[周会记录](https://oceanbase.yuque.com/org-wiki-obtech-vh7w9r/imzr6c/pa2ny21mpif09xot)
 
-微信群：专用微信群【[SIG] OceanBase 诊断工具兴趣小组】，便于成员随时讨论问题，微信群添加方式，添加微信：obdiagsig，说明加群目的，审核通过后管理员会将加用户加入微信群中。
+微信群：专用微信群【[SIG] OceanBase 诊断工具兴趣小组】，便于成员随时讨论问题，微信群添加方式，添加“OB SIG小助手”微信：OBCE888，说明加群目的，审核通过后管理员会将加用户加入微信群中。
 
 ## 组织架构
 > 我们要求成立一个SIG，最少有3个人
@@ -55,10 +56,14 @@ obdiag的功能如下：
 - 白鳝(xuji755), 南京基石数据
 - 汤庆(Teingi), OceanBase
 - 傅榕锋(frf12), OceanBase
+- 王煦焱(wayyoungboy), OceanBase
 
 ### Committer
 
-- 王煦焱(wayyoungboy), OceanBase
+- 黄尖(RoyceHwangCN), 百丽
+- 纪晓东(xiaodong-ji), 北控水务
+- 靖永栋(jingyd66), 联通软件研究院,
+- 孙鹏(oraclebird), 南京基石数据
 
 ### Contributor
 

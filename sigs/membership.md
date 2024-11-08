@@ -84,5 +84,4 @@ Maintainer 不再活跃或不能再参与相关项目，可以由自己或其他
 
 ## 成员变更流程
 - 在[oceanbase/community](https://github.com/oceanbase/community)中发起成员变更PR，PR 标题为 `SIG Membership Change: {name} ({role})`；
-- 增加[投票记录](../votes/README_CN.md)；
 - 审核通过后合并 PR，即变更成功。

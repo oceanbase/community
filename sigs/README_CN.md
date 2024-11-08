@@ -25,20 +25,9 @@ SIG 的全称是 Special Interest Group，即特别兴趣小组。SIG 必须保�
 
 ## 更新SIG信息
 
-SIG 信息变更的内容不同，需要由不同角色的人来审核。
+SIG 信息变更由 SIG 内部决策，TOC 不参与 SIG 的信息变更决策。
 
 投票通过条件：
-
-**SIG 项目列表变更**
-- 不少于 2/3 TOC 成员投票通过。
-
-**SIG Maintainer 成员变更**
-
-需要同时满足：
-- 不少于 2/3 TOC 成员投票通过；
-- 所有新增 Maintainer 成员投票通过。
-
-**其它**
 - 不少于 2/3 Maintainer 通过。
 
 **变更流程**

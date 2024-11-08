@@ -16,7 +16,7 @@
 周会信息：暂无
 周会归档：暂无
 
-微信群：添加OB社区小助手(微信号：OBCE666），备注“SIG-AI”，等待邀请入群。
+微信群：添加OB SIG小助手(微信号：OBCE888），备注“SIG-AI”，等待邀请入群。
 
 ## 组织架构
 
@@ -29,5 +29,6 @@
 - 单海康(@GITHUBear), OceanBase
 
 ### Committer
+虚位以待
 
 ### Contributor
