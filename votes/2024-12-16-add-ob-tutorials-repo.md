@@ -9,7 +9,6 @@
 项目责任人(github id): 
 
 - PMC: lacrimosaprinz
-- Committer: lacrimosaprinz
 
 开源协议：Apache 2.0
 
