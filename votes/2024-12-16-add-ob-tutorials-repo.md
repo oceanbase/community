@@ -14,4 +14,4 @@
 
 ## 投票结果
 
-参考 [申请添加 tutorials 文档仓库投票结果]()。
+参考 [申请添加 tutorials 文档仓库投票结果](https://github.com/oceanbase/community/pull/25)。
