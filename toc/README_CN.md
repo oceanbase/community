@@ -28,4 +28,4 @@ OceanBase 开发者社区的技术管理机构，负责 OceanBase 开发者社�
 | --- | --- | --- |
 | 封仲淹 | OceanBase | longdafeng |
 | 蔡飞志 | OceanBase | caifeizhi |
-| 王运来 | OceanBase | hnwyllmm |
+| 汤庆 | OceanBase | Teingi |
