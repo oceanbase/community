@@ -1,10 +1,10 @@
-# 申请添加 tutorials 文档仓库
+# 申请添加 best-practices 文档仓库
 
 ## 项目基本信息
 
-项目名称：tutorials
+项目名称：best-practices 
 
-项目目的：tutorials 文档仓库开源面向技术爱好者，吸引同样有实践经验的 DBA、技术爱好者贡献文档。
+项目目的：best-practices  文档仓库开源面向技术爱好者，吸引同样有实践经验的 DBA、技术爱好者贡献文档。
 
 项目责任人(github id): 
 
