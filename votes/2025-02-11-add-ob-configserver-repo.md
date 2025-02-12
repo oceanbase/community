@@ -10,7 +10,7 @@
 
 - Maintainer: chris-sun-star
 
-开源协议：MulanPubL-2.0
+开源协议：Apache 2.0
 
 ## 开源项目检查清单
 
