@@ -9,6 +9,7 @@
 项目责任人(github id): 
 
 - Maintainer: chris-sun-star
+- Maintainer: Guozhirourou
 
 开源协议：Apache 2.0
 
