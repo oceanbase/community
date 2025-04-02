@@ -27,5 +27,5 @@ OceanBase 开发者社区的技术管理机构，负责 OceanBase 开发者社�
 | 姓名 | 组织 | GitHub ID |
 | --- | --- | --- |
 | 封仲淹 | OceanBase | longdafeng |
-| 蔡飞志 | OceanBase | caifeizhi |
+| 傅榕锋 | OceanBase | frf12 |
 | 汤庆 | OceanBase | Teingi |
