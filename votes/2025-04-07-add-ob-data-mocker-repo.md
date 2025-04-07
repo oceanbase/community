@@ -1,4 +1,4 @@
-# 申请创建 xxx 项目
+# 申请创建 ob-data-mocker 项目
 
 ## 项目基本信息
 
@@ -32,4 +32,4 @@
 
 
 ## 投票结果
-参考 [创建 ob-data-mocker 仓库投票结果](一个 pull request链接)。
+参考 [创建 ob-data-mocker 仓库投票结果](https://github.com/oceanbase/community/pull/36)。
