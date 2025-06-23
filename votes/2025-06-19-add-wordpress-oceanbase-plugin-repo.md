@@ -1,13 +1,16 @@
-# 申请创建 wordpress-oceanbase-plugin 项目
+# 申请创建 ecology-plugins 项目
 
 ## 项目基本信息
 
-项目名称：wordpress-oceanbase-plugin
+项目名称：ecology-plugins
 
-项目目的：主要解决oceanbase mysql 租户作为wordpress元数据库时的兼容性问题
+项目目的：主要目的是提供oceanbase和开源项目的兼容性插件。
+本次是解决oceanbase mysql 租户作为wordpress元数据库时的兼容性问题。
 
 项目责任人(github id)：
-- Maintainer: sc-source
+- PMC: sc-source
+- PMC：xxsc0529
+- PMC：yuanoOo
 
 开源协议：Apache 2.0
 
