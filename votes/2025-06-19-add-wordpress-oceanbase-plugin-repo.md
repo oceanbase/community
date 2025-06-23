@@ -36,4 +36,4 @@
 
 ## 投票结果
 
-参考 [创建 wordpress-oceanbase-plugin 项目投票结果](https://github.com/oceanbase/community/pull/39)。
+参考 [创建 ecology-plugins 项目投票结果](https://github.com/oceanbase/community/pull/39)。
