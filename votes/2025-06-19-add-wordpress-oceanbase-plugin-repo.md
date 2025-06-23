@@ -6,6 +6,7 @@
 
 项目目的：主要目的是提供oceanbase和开源项目的兼容性插件。
 本次是解决oceanbase mysql 租户作为wordpress元数据库时的兼容性问题。
+后续再有生态相关的插件，统一托管到新建的仓库ecology-plugins, 在该仓库下新建一级目录用于区分不同的插件;
 
 项目责任人(github id)：
 - PMC: sc-source
