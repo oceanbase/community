@@ -22,4 +22,4 @@ Fork 维护的原因：目前 Dify 社区没有计划对 MySQL 进行支持，�
 
 ## 投票结果
 
-参考 [申请 Fork Dify 项目](https://github.com/oceanbase/community/pull/33)。
+参考 [申请 Fork Dify 项目](https://github.com/oceanbase/community/pull/40)。
