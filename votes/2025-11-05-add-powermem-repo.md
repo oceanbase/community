@@ -10,7 +10,7 @@
 
 - Maintainer: teingi
 - Maintainer: wayyoungboy
-- Maintainer: 
+- Maintainer: frf12
 
 > 请填写项目维护者的 GitHub ID
 
