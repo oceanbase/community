@@ -11,6 +11,7 @@
 - Maintainer: teingi
 - Maintainer: wayyoungboy
 - Maintainer: frf12
+- Maintainer: Evenss
 
 > 请填写项目维护者的 GitHub ID
 
