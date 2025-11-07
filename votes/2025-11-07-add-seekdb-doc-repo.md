@@ -32,4 +32,4 @@
 > 满足投票条件是说投票已经成功，比如已经有不少于 2/3 的 TOC 投票，或者投票失败，比如有一半的 TOC 反对。
 ## 投票结果
 
-参考 [创建 powermem 项目投票结果](https://github.com/oceanbase/community/pull/49)。
+参考 [创建 seekdb-doc 项目投票结果](https://github.com/oceanbase/community/pull/50)。
