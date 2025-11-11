@@ -1,0 +1,26 @@
+# 申请 Fork langfuse 项目
+## 项目基本信息
+原始项目地址：https://github.com/langfuse/langfuse
+
+项目用途：对社区版powerrag进行观测、评测、prompt管理等用途
+
+Fork 维护的原因： 进行langfuse对国际化、qwen模型适配、离线评测服务Bridge开源、评估执行优化、时区处理优化、连接池优化、oceanbase的适配、支持和维护等。
+
+项目责任人(github id)：
+
+Maintainer: jiuchongxiao
+Maintainer: zhichenghouse
+
+# 申请 langfuse-bridge 项目开源
+## 项目基本信息
+
+项目用途：实现langfuse对接外部rag平台进行评测的能力
+
+开源的原因：langfuse的配套服务，方便外部rag平台的对接和测评 
+
+项目责任人(github id)：
+
+Maintainer: jiuchongxiao
+Maintainer: zhichenghouse
+
+
