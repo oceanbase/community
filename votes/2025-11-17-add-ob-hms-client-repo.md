@@ -1,4 +1,4 @@
-# 申请创建 lib-hms-client 项目
+# 申请创建 hms-client 项目
 
 ## 项目基本信息
 
