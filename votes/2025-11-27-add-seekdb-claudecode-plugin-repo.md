@@ -1,10 +1,10 @@
-# 申请创建 seekdb-claudecode-plugin 项目
+# 申请创建 seekdb-ecology-plugins 项目
 
 ## 项目基本信息
 
-项目名称：seekdb-claudecode-plugin
+项目名称：seekdb-ecology-plugins
 
-项目目的：为 seekdb 提供 Claude Code 插件支持，方便开发者在 Claude Code 环境中使用 seekdb 数据库。
+项目目的：为 seekdb 提供 Agent 类应用的插件支持（如 Claude Code、Cursor、Qoder 等），方便开发者在这些 Agent 类应用中便捷使用 seekdb 数据库。
 
 项目责任人(github id)：
 
