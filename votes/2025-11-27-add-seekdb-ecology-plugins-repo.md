@@ -37,5 +37,5 @@
 
 ## 投票结果
 
-参考 [创建 seekdb-claudecode-plugin 项目投票结果](https://github.com/oceanbase/community/pull/58)。
+参考 [创建 seekdb-ecology-plugins 项目投票结果](https://github.com/oceanbase/community/pull/58)。
 
