@@ -26,4 +26,4 @@
 
 ## 投票结果
 
-参考 [创建 seekdb-client 项目投票结果](https://github.com/oceanbase/community/pull/61)。
+参考 [创建 seekdb-client 项目投票结果](https://github.com/oceanbase/community/pull/62)。
