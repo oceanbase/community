@@ -4,7 +4,7 @@
 
 项目名称：seekdb-client
 
-项目目的：为 Cursor 等编辑器 提供 SeekDB 的插件支持，方便开发者在使用 Cursor 时便捷使用 SeekDB。
+项目目的：为 Cursor 等编辑器 提供 SeekDB 的插件支持，方便开发者在使用 Cursor 时便捷使用 SeekDB
 
 项目责任人(github id)：
 
@@ -17,13 +17,6 @@
 ## 开源项目检查清单
 
 > 检查清单是为了让项目更规范，让社区用户更容易使用。应该在项目创建后，尽快补充清单中的信息。
-
-- [] 包含 README.md
-- [] 工程类项目需要包含 CONTRIBUTING.md。参考 OceanBase 社区 [CONTRIBUTING 文件](https://github.com/oceanbase/.github/blob/main/CONTRIBUTING.md)
-- [] 包含文件 CODE_OF_CONDUCT.md （没有此文件将使用社区现有的[行为准则文件](https://github.com/oceanbase/.github/blob/main/CODE_OF_CONDUCT.md) ）
-- [] 工程类项目包含用户安装指导说明（通常在 README.md 中说明）
-- [] 工程类项目包含用户使用指导说明（通常在 README.md 中说明）
-- [] 工程类项目代码类项目包含编译指导说明（通常在 README.md 中说明）
 
 ## 投票截止时间
 
