@@ -1,8 +1,8 @@
-# 申请创建 goseekdb 项目
+# 申请创建 seekdb-go 项目
 
 ## 项目基本信息
 
-项目名称：goseekdb
+项目名称：seekdb-go
 
 项目目的：便于 AI 开发者在自己的 Golang 项目中使用 seekdb
 
@@ -32,4 +32,4 @@
 
 ## 投票结果
 
-参考 [创建 goseekdb 项目投票结果](https://github.com/oceanbase/community/pull/64)。
+参考 [创建 seekdb-go 项目投票结果](https://github.com/oceanbase/community/pull/64)。
