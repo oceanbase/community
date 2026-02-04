@@ -4,7 +4,7 @@
 
 项目名称：iseek
 
-项目目的：智能文件扫描、存储、统计和搜索系统。基于 OceanBase seekdb数据库和阿里云大模型，提供高效的文件扫描、AI 增强搜索、自动 SQL 生成和实时文件统计可视化功能。面向需要管理大规模服务器文件系统的开发者和运维人员。
+项目目的：智能文件扫描、存储、统计和搜索系统。基于 OceanBase seekdb数据库和阿里云大模型，提供高效的文件扫描、AI 增强搜索、自动 SQL 生成和实时文件统计可视化功能。
 
 项目责任人(github id)：
 
@@ -20,12 +20,12 @@
 
 > 检查清单是为了让项目更规范，让社区用户更容易使用。应该在项目创建后，尽快补充清单中的信息。
 
-- [x] 包含 README.md
-- [x] 工程类项目需要包含 CONTRIBUTING.md。参考 OceanBase 社区 [CONTRIBUTING 文件](https://github.com/oceanbase/.github/blob/main/CONTRIBUTING.md)
-- [x] 包含文件 CODE_OF_CONDUCT.md （没有此文件将使用社区现有的[行为准则文件](https://github.com/oceanbase/.github/blob/main/CODE_OF_CONDUCT.md) ）
-- [x] 工程类项目包含用户安装指导说明（通常在README.md中说明）
-- [x] 工程类项目包含用户使用指导说明（通常在README.md中说明）
-- [x] 工程类项目代码类项目包含编译指导说明（通常在README.md中说明）
+- [ ] 包含 README.md
+- [ ] 工程类项目需要包含 CONTRIBUTING.md。参考 OceanBase 社区 [CONTRIBUTING 文件](https://github.com/oceanbase/.github/blob/main/CONTRIBUTING.md)
+- [ ] 包含文件 CODE_OF_CONDUCT.md （没有此文件将使用社区现有的[行为准则文件](https://github.com/oceanbase/.github/blob/main/CODE_OF_CONDUCT.md) ）
+- [ ] 工程类项目包含用户安装指导说明（通常在README.md中说明）
+- [ ] 工程类项目包含用户使用指导说明（通常在README.md中说明）
+- [ ] 工程类项目代码类项目包含编译指导说明（通常在README.md中说明）
 
 ## 投票截止时间
 
@@ -35,5 +35,5 @@
 
 ## 投票结果
 
-参考 [创建 iseek 项目投票结果](https://github.com/oceanbase/community/pull/XXX)。
+参考 [创建 iseek 项目投票结果](https://github.com/oceanbase/community/pull/69)。
 
