@@ -35,5 +35,5 @@
 
 ## 投票结果
 
-参考 [创建 iseek 项目投票结果](https://github.com/oceanbase/community/pull/69)。
+参考 [创建 iseek 项目投票结果](https://github.com/oceanbase/community/pull/70)。
 
