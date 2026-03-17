@@ -2,7 +2,7 @@
 项目基本信息
 项目名称：talos
 
-项目目的：talos 是一个 AI 辅助开发工作流管理系统，通过对话生成 PRD 并编排 AI 代理自动执行其中的用户故事。 
+项目目的：Talos 是一个基于 Ralph 的 CLI 工具，支持在 Claude Code、Cursor cli 下运行。它支持你并行的在多个仓库下、执行多个 Ralph Loop 任务。
 
 项目责任人(github id)：
 
