@@ -8,8 +8,11 @@
 
 项目目的：一个用于管理本地部署OceanBase资源的Terraform Provider，基于Terraform插件框架构建。它通过私有云OCP（OceanBase云平台）REST API，对OceanBase集群及相关组件进行全生命周期管理。
 
-
 开源协议：Apache 2.0
+
+项目责任人(github id)：
+
+Maintainer:912172702-afk
 
 > 建议采用 Apache 2.0，如果不采用 Apache 2.0 协议，请注明原因
 
