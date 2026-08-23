@@ -73,4 +73,4 @@ Apache License 2.0，与 PowerContext Python 项目及 OceanBase 社区主流开
 
 ## 投票结果
 
-参考 [创建 powercontext-ts 项目投票结果](一个 pull request 链接)。
+参考 [创建 powercontext-ts 项目投票结果](https://github.com/oceanbase/community/pull/86)。
