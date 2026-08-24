@@ -49,6 +49,9 @@ powercontext-ts 用于建设 PowerContext 面向 TypeScript 和 Node.js 生态�
 ## 项目责任人（GitHub ID）
 
 - Maintainer: knqiufan
+- Maintainer: guozhihao-224
+
+> Additional Maintainers / Committers may be added during the review process.
 
 ## 开源协议
 
