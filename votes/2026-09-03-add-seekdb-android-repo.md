@@ -46,4 +46,4 @@ seekdb-android 是 SeekDB（OceanBase 开源的嵌入式向量数据库）的 An
 
 ## 投票结果
 
-参考 [创建 seekdb-android 项目投票结果](一个 pull request 链接)。
+参考 [创建 seekdb-android 项目投票结果](https://github.com/oceanbase/community/pull/87)。
