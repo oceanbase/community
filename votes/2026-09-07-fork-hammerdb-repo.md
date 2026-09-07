@@ -10,7 +10,7 @@ Reason for maintaining a fork:
 Maintain an OceanBase community fork to develop and maintain OceanBase-specific benchmark adaptations, configuration examples, and test scripts. The fork will help users run repeatable performance evaluations and proof-of-concept (POC) tests against OceanBase, while providing a shared place to maintain these adaptations and incorporate relevant upstream updates.
 
 Project owner (GitHub ID):
-- Maintainer: jackysp
+- Maintainer: @jackysp
 
 License: GNU General Public License v3.0, as used by the upstream project.
 
